@@ -1,0 +1,19 @@
+commands
+
+cd C:\Users\Dhaarun\Child_Safety_Detection
+child_safety_env\Scripts\activate
+
+
+(child_safety_env) C:\Users\Dhaarun\Child_Safety_Detection>
+
+running yolo (web cam open) cmd: 
+python test_yolo.py
+
+
+running yolo web cam and saving the vdo op:
+python yolo_save_video.py
+
+
+pose esti + yolo vdo :
+python yolo_pose.py
+python yolo_pose_new.py
