@@ -11,7 +11,7 @@ from mediapipe.tasks.python import vision
 # -------------------------------
 # TELEGRAM SETTINGS
 # -------------------------------
-BOT_TOKEN = "8709499908:AAFc6RSlbZonA0_-s_I4UGOV8d3TlG7LzXQ"
+BOT_TOKEN = "Can't Expose Openly"
 CHAT_ID = "6680941372"
 
 ENABLE_TELEGRAM = True
